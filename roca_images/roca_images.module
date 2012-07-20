@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the roca_images feature.
+ */
+
+include_once 'roca_images.features.inc';
